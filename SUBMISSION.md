@@ -7,7 +7,7 @@
 - [5 pts] Your Travis CI dashboard showing a successful build after your change of the group
 ID.![Screen Capture #4](images/buildGroupID.JPG)
 - [5 pts]The section of the POM file showing the coordinates after you’ve commented them
-out.![Screen Capture #5](images/jarFile.JPG)
+out.![Screen Capture #5](images/comment.JPG)
 - [5 pts] Your Travis CI dashboard showing the unsuccessful build after the breaking change.
 ![Screen Capture #6](images/jarFile.JPG)
 - [5 pts] Your Github repository with the readme.md file selected showing the build failed
