@@ -9,12 +9,12 @@ ID.![Screen Capture #4](images/buildGroupID.JPG)
 - [5 pts]The section of the POM file showing the coordinates after you’ve commented them
 out.![Screen Capture #5](images/comment.JPG)
 - [5 pts] Your Travis CI dashboard showing the unsuccessful build after the breaking change.
-![Screen Capture #6](images/jarFile.JPG)
+![Screen Capture #6](images/travisfailedbuild.JPG)
 - [5 pts] Your Github repository with the readme.md file selected showing the build failed
-status after the Travis CI build fails.![Screen Capture #7](images/jarFile.JPG)
+status after the Travis CI build fails.![Screen Capture #7](images/ghfailedbuild.JPG)
 - [5 pts] The section of the POM file showing the coordinates after you’ve fixed them.
-![Screen Capture #8](images/jarFile.JPG)
+![Screen Capture #8](images/pomfixedbuild.JPG)
 - [5 pts] Your Travis CI dashboard showing the successful build after the breaking change has
-been fixed.![Screen Capture #9](images/jarFile.JPG)
+been fixed.![Screen Capture #9](images/transfixedbuild.JPG)
 - [5 pts] Your Github repository with the readme.md file selected showing the build success
-status after the Travis CI build has recovered.![Screen Capture #10](images/jarFile.JPG)
+status after the Travis CI build has recovered.![Screen Capture #10](images/ghfixedbuild.JPG)
