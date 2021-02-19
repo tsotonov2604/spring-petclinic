@@ -3,9 +3,9 @@
 - [5 pts] Your Travis CI dashboard showing a successful first build.
 ![Screen Capture #2](images/build.JPG)
 - [5 pts] The section of the POM file showing the coordinates after you’ve changed them.
-![Screen Capture #3](images/antIvyBuild.JPG)
+![Screen Capture #3](images/pomGroupID.JPG)
 - [5 pts] Your Travis CI dashboard showing a successful build after your change of the group
-ID.![Screen Capture #4](images/jarFile.JPG)
+ID.![Screen Capture #4](images/buildGroupID.JPG)
 - [5 pts]The section of the POM file showing the coordinates after you’ve commented them
 out.![Screen Capture #5](images/jarFile.JPG)
 - [5 pts] Your Travis CI dashboard showing the unsuccessful build after the breaking change.
