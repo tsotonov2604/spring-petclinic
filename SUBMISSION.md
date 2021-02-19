@@ -1,5 +1,5 @@
 - [5 pts] Your Github account showing that is has been forked from the depaulcdm/springpetclinic repository.
-![Screen Capture #1](images/AntVersionLocation.JPG)
+![Screen Capture #1](images/fork.JPG)
 - [5 pts] Your Travis CI dashboard showing a successful first build.
 ![Screen Capture #2](images/goNodes.JPG)
 - [5 pts] The section of the POM file showing the coordinates after you’ve changed them.
